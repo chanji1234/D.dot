@@ -1,0 +1,3 @@
+#写代码的代码
+logic:forifforiforfor
+output:1 2 3 4 5
